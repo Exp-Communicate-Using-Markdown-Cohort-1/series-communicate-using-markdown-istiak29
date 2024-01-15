@@ -9,3 +9,8 @@ git init
 git add .
 git commit -m ' '
 ```
+
+### This is my markdown area:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
